@@ -79,7 +79,7 @@ class MemberTreeMap{
 	
 }
 
-public class _1130 {
+public class _1130_treeMap {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

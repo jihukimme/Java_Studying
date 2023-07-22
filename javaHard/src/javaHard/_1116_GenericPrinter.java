@@ -57,7 +57,7 @@ class Printer<T>{
 	}
 }
 
-public class _1116 {
+public class _1116_GenericPrinter {
 	//integer, double, string 다쓸 수 있는 배열 프린트
 	//모든 형태의 배열값(integer값이 담긴 배열, character값이 담긴 배열, 등등)을 출력할 수 있는 PrintArray 제네릭 메소드
 	public static <T> void printArray(T[] arr) {

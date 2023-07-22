@@ -30,7 +30,7 @@ class Member implements Serializable {
 	}
 }
 
-public class _1207 {
+public class _1207_fileProject2 {
 	
 	public static final String FILEPATH = "member.dat";
 	public static final String KPATH = "C:\\Users\\jihu\\OneDrive\\바탕 화면\\김지후 파일\\대학 자료\\22학년도 2-2\\자바\\자바_강의자료\\14(b) 파일입출력_바이트스트림.pdf";

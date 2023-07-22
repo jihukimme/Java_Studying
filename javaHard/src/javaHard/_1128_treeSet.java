@@ -1,5 +1,5 @@
 /*
-package lastTest;
+package javaHard;
 
 import java.util.TreeSet;
 import java.util.Iterator;
@@ -110,7 +110,7 @@ class MemberTreeSet{
 }
 
 
-public class _1128 {
+public class _1128_treeSet {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

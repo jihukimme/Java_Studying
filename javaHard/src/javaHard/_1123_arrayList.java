@@ -1,5 +1,5 @@
 /*
-package lastTest;
+package javaHard;
 import java.util.ArrayList;
 import java.util.Iterator;
 
@@ -84,7 +84,7 @@ class MemberArrayList{
 }
 
 
-public class _1123 {
+public class _1123_arrayList {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

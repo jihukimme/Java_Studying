@@ -47,7 +47,7 @@ class reSolution{
 	}
 }
 
-public class _1205 {
+public class _1205_fileProject1 {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub

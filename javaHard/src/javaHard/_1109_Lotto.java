@@ -73,7 +73,7 @@ class numberMake{
 }
 
 
-public class _1109 {
+public class _1109_Lotto {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -26,7 +26,7 @@ class Student{
 }
 
 
-public class _1107 {
+public class _1107_studentInformation {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
